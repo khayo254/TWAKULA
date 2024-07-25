@@ -10,11 +10,10 @@ TWAKULA is a web application aimed at providing users with a convenient platform
 - **Search Functionality:** Find recipes quickly using the search feature.
 - **Responsive Design:** User-friendly interface optimized for desktop and mobile devices.
 
-## Technologies Used
+## Technologies/resources Used
 - **Frontend:** React, Bootstrap
 - Freecodecamp
 - ChatGPT
-- **ORM:** SQLAlchemy
 
 ## Setup Instructions
 1. **Clone the Repository:*
