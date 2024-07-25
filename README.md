@@ -12,24 +12,13 @@ TWAKULA is a web application aimed at providing users with a convenient platform
 
 ## Technologies Used
 - **Frontend:** React, Bootstrap
-- **Backend:** Flask (Python)
-- **Database:** MySQL
+- Freecodecamp
+- ChatGPT
 - **ORM:** SQLAlchemy
 
 ## Setup Instructions
-1. **Clone the Repository:* 
-2. **Backend Setup:**
-   - Navigate to the `backend` directory.
-   - Install dependencies using pip:
-     ```
-     pip install -r requirements.txt
-     ```
-   - Configure the database connection in `config.py`.
-   - Run the Flask application:
-     ```
-     python app.py
-     ```
-3. **Frontend Setup:**
+1. **Clone the Repository:*
+2. **Frontend Setup:**
    - Navigate to the `frontend` directory.
    - Install dependencies using npm:
      ```
@@ -39,9 +28,7 @@ TWAKULA is a web application aimed at providing users with a convenient platform
      ```
      npm start
      ```
-4. **Database Setup:**
-   - Create a MySQL database for the TWAKULA app.
-   - Update the database URI in `config.py` to point to the newly created database.
+     
 
 ## Usage
 - Access the TWAKULA app by navigating to `http://localhost:3000` in your web browser.
@@ -59,9 +46,9 @@ Contributions to the TWAKULA app are welcome! If you'd like to contribute, pleas
 5. Submit a pull request to the main repository.
 
 ## Credits
-The TWAKULA app was developed by [khayo1998@gmail.com and matendecherej@gmail.com]. Credits to the creators of the libraries and frameworks used in the project.
+The TWAKULA app was developed by [khayo1998@gmail.com and jeweldonah1@gmail.com]. Credits to the creators of the libraries and frameworks used in the project.
 
 ## Support
-For any questions or issues, please contact [khayo1998@gmail.com].
+For any questions or issues, please contact [khayo1998@gmail.com] and [jeweldonah1@gmail.com].
 
 ---
